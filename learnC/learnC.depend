@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577349914 source:d:\codeblocks\bupt\learnc\main.c
+	<stdio.h>
+	<math.h>
+
